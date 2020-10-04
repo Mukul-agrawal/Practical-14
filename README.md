@@ -1,3 +1,3 @@
 #Practical-14
 
-Create Login templates.
+Create different types of form templates.
